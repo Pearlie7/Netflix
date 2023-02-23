@@ -58,7 +58,7 @@ body{
 }
 .netflix-pic{
     margin: 0px;
-    background-image:radial-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 1.5)), url("./images/pic1.jpg") ;
+    background-image:radial-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 1.5)), url("../images/pic1.jpg") ;
     /* background-image:conic-gradient(rgba(83, 33, 33, 0.7),rgba(0, 0, 0, 0.8)), url("/images/pic1.jpg") ; */
     /* background-image:url("/images/pic1.jpg") ; */
     background-repeat: no-repeat;
